@@ -7,7 +7,7 @@ A cloud-native pipeline to fetch real-time news, analyze sentiment using TESTBLO
 
 ### 🧱  *Architecture*
 
-![Architecture Diagram](architecture.jpeg)
+![Architecture Diagram](architecture.jpeg.jpeg)
 
 
 
